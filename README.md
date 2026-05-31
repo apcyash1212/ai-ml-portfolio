@@ -1,86 +1,148 @@
-# 🤖 AI/ML & Data Science Portfolio
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Data+Scientist;Data+Analyst;Building+intelligent+solutions+🚀" />
-</p>
+# 🤖 AI / ML & Data Science Portfolio
 
-<p align="center">
-  <a href="https://github.com/apcyash1212"><img src="https://img.shields.io/badge/GitHub-apcyash1212-181717?style=for-the-badge&logo=github"/></a>
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Data+Scientist+%F0%9F%94%AC;Data+Analyst+%F0%9F%93%8A;Turning+data+into+decisions+%F0%9F%9A%80" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-apcyash1212-181717?style=for-the-badge&logo=github)](https://github.com/apcyash1212)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-AI%20%2F%20ML%20%2F%20Data-6366F1?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍-India-orange?style=for-the-badge)
+
+</div>
 
 ---
 
-## 📂 Projects
+## 👨‍💻 About Me
 
-### 🏦 Credit Card Customer Churn Prediction
-> Predict which customers are likely to churn using ML classification models
+> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
-**Tech Stack:** Python · Scikit-learn · Pandas · Seaborn · Jupyter Notebook
+I am an **AI/ML Engineer & Data Scientist** passionate about building intelligent systems and extracting meaningful insights from data. My work spans machine learning, deep learning, NLP, and data analytics — transforming raw data into real-world solutions.
+
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 Credit Card Customer Churn
+**Predict which customers will leave before they do**
+
+Analyzed 10,000+ customer records using ML classification to identify high-risk churners, enabling proactive bank retention strategies.
+
+**Tech:** Python · Scikit-learn · XGBoost · Pandas · Seaborn
 
 **Highlights:**
-- Analyzed 10,000+ customer records with demographic & behavioral features
-- Built and compared Logistic Regression, Random Forest, and XGBoost models  
-- Achieved high accuracy with feature importance analysis
-- Actionable insights for proactive customer retention
+- 📊 EDA on 10K+ records
+- 🤖 Multiple ML models compared
+- 📈 Feature importance analysis
+- 💡 Actionable retention insights
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/apcyash1212/Credit-Card-Customer-Churn)
+[![View](https://img.shields.io/badge/View%20Project-%23181717?style=flat-square&logo=github)](https://github.com/apcyash1212/Credit-Card-Customer-Churn)
 
----
+</td>
+<td width="50%" valign="top">
 
-### 💳 Aether Wallet — Full Stack App
-> Digital wallet application with Flutter frontend and secure backend
+### 💳 Aether Wallet App
+**Full-stack digital wallet with Flutter**
 
-**Tech Stack:** Flutter · Dart · Backend API · Wallet Management
+A complete digital wallet application with Flutter mobile frontend and secure backend API for real-time wallet and transaction management.
+
+**Tech:** Flutter · Dart · REST API · Backend Service
 
 **Highlights:**
-- Full-stack architecture with Flutter-based mobile frontend
-- Secure transaction management system
-- Real-time wallet operations and balance tracking
-- Clean UI/UX design for financial management
+- 📱 Cross-platform Flutter UI
+- 🔐 Secure transaction backend
+- 💰 Real-time balance tracking
+- 🔄 Full transaction history
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/apcyash1212/Aether-Wallet---App)
+[![View](https://img.shields.io/badge/View%20Project-%23181717?style=flat-square&logo=github)](https://github.com/apcyash1212/Aether-Wallet---App)
 
----
-
-### 🌐 Web Development Projects
-> HTML/CSS/JS projects and experiments
-
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/apcyash1212/apna-code)
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Tools |
-|----------|-------|
-| **Languages** | Python, SQL, Dart, HTML/CSS |
-| **ML/AI** | Scikit-learn, TensorFlow, PyTorch, XGBoost |
-| **Data** | Pandas, NumPy, Matplotlib, Seaborn |
-| **NLP/LLM** | HuggingFace, LangChain, NLTK |
-| **Visualization** | Tableau, Power BI, Plotly |
-| **Tools** | Jupyter, Git, Docker, FastAPI, Google Colab |
-| **Cloud** | AWS, GCP |
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**ML / AI / Deep Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Tools & Cloud**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apcyash1212&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apcyash1212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=apcyash1212&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apcyash1212&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</div>
 
 ---
 
-## 📫 Connect
+## 🏆 Achievements
 
-- 🔗 **GitHub:** [github.com/apcyash1212](https://github.com/apcyash1212)
-- 💼 **LinkedIn:** [Add your LinkedIn]
-- 📧 **Email:** [Add your email]
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=apcyash1212&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</div>
 
 ---
 
-<p align="center"><i>"Data is the new oil, but AI is the refinery."</i></p>
-<p align="center">⭐ Star this repo if you find it useful!</p>
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/apcyash1212)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=apcyash1212&label=Profile%20Views&color=6366f1&style=flat)
+
+**⭐ Star this repo if you find it helpful!**
+
+</div>
