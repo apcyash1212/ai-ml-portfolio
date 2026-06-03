@@ -29,7 +29,25 @@ I am an **AI/ML Engineer & Data Scientist** passionate about building intelligen
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 Credit Card Customer Churn
+### 🚛 Shivam Enviro — Logistics Intelligence Platform
+**End-to-end ML system for hazardous waste logistics**
+
+Built on **402 real manifests** from Dec 2024. Predicts trip duration, transport cost & delay risk using XGBoost, LightGBM, CatBoost. FastAPI REST backend + 7-page Streamlit dashboard + MLflow tracking.
+
+**Tech:** Python · XGBoost · LightGBM · CatBoost · FastAPI · Streamlit · MLflow · SHAP
+
+**Highlights:**
+- 🔧 8-stage ETL pipeline with 40+ engineered features
+- 🤖 6 ML modules: regression, classification, clustering
+- 🌐 4 prediction endpoints with Pydantic validation
+- 📊 7-page interactive operations dashboard
+
+[![View](https://img.shields.io/badge/View%20Project-%23181717?style=flat-square&logo=github)](https://github.com/apcyash1212/shivam-enviro-logistics)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 Credit Card Customer Churn Prediction
 **Predict which customers will leave before they do**
 
 Analyzed 10,000+ customer records using ML classification to identify high-risk churners, enabling proactive bank retention strategies.
@@ -45,6 +63,8 @@ Analyzed 10,000+ customer records using ML classification to identify high-risk 
 [![View](https://img.shields.io/badge/View%20Project-%23181717?style=flat-square&logo=github)](https://github.com/apcyash1212/Credit-Card-Customer-Churn)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💳 Aether Wallet App
@@ -58,9 +78,20 @@ A complete digital wallet application with Flutter mobile frontend and secure ba
 - 📱 Cross-platform Flutter UI
 - 🔐 Secure transaction backend
 - 💰 Real-time balance tracking
-- 🔄 Full transaction history
 
 [![View](https://img.shields.io/badge/View%20Project-%23181717?style=flat-square&logo=github)](https://github.com/apcyash1212/Aether-Wallet---App)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 More Projects Coming Soon
+**Currently building...**
+
+- 🧠 NLP text classification pipeline
+- 📈 Time-series forecasting with Prophet
+- 🤖 RAG chatbot with LangChain
+
+Stay tuned! ⭐
 
 </td>
 </tr>
@@ -84,27 +115,24 @@ A complete digital wallet application with Flutter mobile frontend and secure ba
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-2980B9?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-yellow?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+
+**MLOps & Serving**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Data & Visualization**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3D4D87?style=for-the-badge&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Tools & Cloud**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 </div>
 
