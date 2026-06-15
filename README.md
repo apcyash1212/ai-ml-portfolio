@@ -181,6 +181,35 @@ Stay tuned! ⭐
 
 ---
 
+## 📜 Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ SQL for Data Science
+**Intellipaat**
+
+Completed comprehensive SQL training covering queries, joins, subqueries, aggregations, and database design for data science applications.
+
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Im-0urCGxSqCHnYqhs__0KGBR3SHIpSB/view?usp=drive_link)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ SQL for Data Science
+**University of Michigan**
+
+Completed SQL for Data Science course by University of Michigan, covering relational databases, complex queries, and data analysis using SQL.
+
+[![View Certificate](https://img.shields.io/badge/View%20Certificate-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1fOqfrr5zD2Kp8Q4GUKxiORBWawQX_qw8/view?usp=drive_link)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
