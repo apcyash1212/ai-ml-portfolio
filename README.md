@@ -84,15 +84,37 @@ A complete digital wallet application with Flutter mobile frontend and secure ba
 </td>
 <td width="50%" valign="top">
 
+### 🤖 RAG-Based Technical Documentation Assistant
+**Production-quality RAG system for technical docs Q&A**
+
+Ingests documentation URLs, chunks & embeds them into ChromaDB, then answers questions using a 7-node **LangGraph** pipeline with query rewriting, LLM-based document grading, hallucination detection, and Tavily web search fallback.
+
+**Tech:** Python · LangGraph · ChromaDB · FastAPI · Streamlit · Gemini 2.5 Flash · Docker
+
+**Highlights:**
+- 🧠 7-node LangGraph StateGraph with conditional retry loops
+- ⚖️ Binary LLM document grading — filters irrelevant chunks
+- 🎯 Hallucination scoring 0–1 on every generated answer
+- 💾 Local `BAAI/bge-small-en-v1.5` embeddings — zero API cost
+- 🧪 40+ pytest tests + Docker Compose deployment
+
+[![View](https://img.shields.io/badge/View%20Project-%23181717?style=flat-square&logo=github)](https://github.com/apcyash1212/rag-docs-assistant)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🌐 More Projects Coming Soon
 **Currently building...**
 
 - 🧠 NLP text classification pipeline
 - 📈 Time-series forecasting with Prophet
-- 🤖 RAG chatbot with LangChain
 
 Stay tuned! ⭐
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
